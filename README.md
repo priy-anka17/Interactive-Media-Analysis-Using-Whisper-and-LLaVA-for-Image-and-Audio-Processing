@@ -30,20 +30,3 @@ pip install -q -U \
     gTTS \
     git+https://github.com/openai/whisper.git
 
-## Usage
-
-### Clone the Repository:
-```bash
-git clone <repository-url>
-cd <repository-directory>
-
-## Contributions
-Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- OpenAI for providing the Whisper and LLaVA models.
-- Gradio for making user interaction simple and intuitive.
-
