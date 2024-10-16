@@ -1,4 +1,5 @@
 # Interactive-Media-Analysis-Using-Whisper-and-LLaVA-for-Image-and-Audio-Processing
+![Multimodel Overview](multimodel.png)
 ## Overview
 This project showcases a cutting-edge integration of audio transcription and image processing using state-of-the-art machine learning models from OpenAI. It combines the capabilities of the **LLaVA 1.5** model, which generates detailed textual descriptions from images, with the **Whisper** model, designed for high-quality automatic speech recognition.
 
