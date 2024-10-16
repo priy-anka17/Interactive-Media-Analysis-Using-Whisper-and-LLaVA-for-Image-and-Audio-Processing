@@ -21,7 +21,6 @@ To run this project, ensure you have the following packages installed:
 - `whisper` (installed via GitHub)
 
 You can install the dependencies using the following command:
-```bash
 pip install -q -U \
     transformers==4.41.0 \
     bitsandbytes==0.41.3 \
@@ -29,4 +28,16 @@ pip install -q -U \
     gradio \
     gTTS \
     git+https://github.com/openai/whisper.git
+
+
+
+## Contributions
+Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- OpenAI for providing the Whisper and LLaVA models.
+- Gradio for making user interaction simple and intuitive.
 
